@@ -1,0 +1,30 @@
+.modal {
+  position: fixed;
+  left: 10%;
+  top: 30vh;
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+  z-index: 20;
+}
+
+.modal header {
+  font-size: 25px;
+  font-weight: 600;
+  margin: 10px 0;
+  border-bottom: 2px solid black;
+}
+
+.modal section {
+  font-size: 19px;
+  margin: 5px 0;
+}
+
+.modal button {
+  padding: 8px 10px;
+  border-radius: 5px;
+  color: white;
+  background-color: rgb(109, 4, 109);
+  font-size: 18px;
+  letter-spacing: 1px;
+}

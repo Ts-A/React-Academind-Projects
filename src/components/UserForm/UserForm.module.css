@@ -1,0 +1,20 @@
+.form-control {
+  width: 100%;
+}
+
+.form-control__controls {
+  margin: 10px 0;
+}
+
+.form-control__actions {
+  margin-top: 10px;
+}
+
+.form-control__actions button {
+  padding: 8px 10px;
+  border-radius: 5px;
+  color: white;
+  background-color: rgb(109, 4, 109);
+  font-size: 18px;
+  letter-spacing: 1px;
+}

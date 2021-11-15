@@ -1,0 +1,10 @@
+.user-item {
+  list-style: none;
+}
+
+.user {
+  border: 2px solid rgba(0, 0, 0, 0.76);
+  padding: 5px 10px;
+  font-size: 18px;
+  font-weight: 800;
+}
